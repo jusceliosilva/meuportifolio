@@ -1,9 +1,11 @@
-.fredoka-<uniquifier> {
+
+
+p {
     font-family: "Fredoka", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: 400; /* Adjust the font weight as needed */
     font-style: normal;
     font-variation-settings:
       "wdth" 100;
-  }
+}
   
